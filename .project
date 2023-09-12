@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>iamneo-production_b8d3f5ab-927f-4304-b283-fbfa4c2716ab-1ab3d535-9a11-4dba-bf8d-24dc89d18138</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+</projectDescription>
